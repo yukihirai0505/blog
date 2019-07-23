@@ -13,7 +13,7 @@ image: /wp-content/uploads/2018/10/cafe-study-125x125.png
 categories:
   - 日記
 ---
-どうも、<a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
+どうも、<a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
 
 今日は渋谷・恵比寿近辺で
 
@@ -116,7 +116,7 @@ TOEICの公式問題集を広げて勉強するとなんか言われそうな雰
   </p>
   
   <p>
-    &mdash; ヤバW😘 (@yabaiwebyasan) <a href="https://twitter.com/yabaiwebyasan/status/1055354511739383808?ref_src=twsrc%5Etfw">October 25, 2018</a>
+    &mdash; ヤバW😘 (@yabaiwebyasan) <a href="https://twitter.com/iamseninja/status/1055354511739383808?ref_src=twsrc%5Etfw">October 25, 2018</a>
   </p>
 </blockquote>
 
@@ -172,7 +172,7 @@ B1Fを使用しましたがWifiや電源があるので
   </p>
   
   <p>
-    &mdash; ヤバW😘 (@yabaiwebyasan) <a href="https://twitter.com/yabaiwebyasan/status/1055656502403379200?ref_src=twsrc%5Etfw">October 26, 2018</a>
+    &mdash; ヤバW😘 (@yabaiwebyasan) <a href="https://twitter.com/iamseninja/status/1055656502403379200?ref_src=twsrc%5Etfw">October 26, 2018</a>
   </p>
 </blockquote>
 
@@ -207,7 +207,7 @@ B1Fを使用しましたがWifiや電源があるので
   </p>
   
   <p>
-    &mdash; ヤバW😘 (@yabaiwebyasan) <a href="https://twitter.com/yabaiwebyasan/status/1055683736606363648?ref_src=twsrc%5Etfw">October 26, 2018</a>
+    &mdash; ヤバW😘 (@yabaiwebyasan) <a href="https://twitter.com/iamseninja/status/1055683736606363648?ref_src=twsrc%5Etfw">October 26, 2018</a>
   </p>
 </blockquote>
 

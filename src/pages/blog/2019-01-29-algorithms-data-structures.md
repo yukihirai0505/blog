@@ -13,7 +13,7 @@ image: /wp-content/uploads/2019/01/脱文系プログラマ-125x125.png
 categories:
   - テクノロジー
 ---
-どうも、<a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
+どうも、<a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
 
 WEB開発の実務だけではなかなか身につかないのが
 
@@ -45,7 +45,7 @@ WEB開発の実務だけではなかなか身につかないのが
   </p>
   
   <p>
-    &mdash; Yuki Hirai👨‍💻 (@yabaiwebyasan) <a href="https://twitter.com/yabaiwebyasan/status/1090154441762848768?ref_src=twsrc%5Etfw">January 29, 2019</a>
+    &mdash; Yuki Hirai👨‍💻 (@yabaiwebyasan) <a href="https://twitter.com/iamseninja/status/1090154441762848768?ref_src=twsrc%5Etfw">January 29, 2019</a>
   </p>
 </blockquote>
 

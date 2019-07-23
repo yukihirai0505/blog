@@ -13,7 +13,7 @@ image: /wp-content/uploads/2018/11/engineer-should-be-healthy-125x125.png
 categories:
   - テクノロジー
 ---
-どうも、<a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="nofollow noopener">ヤバ</a><a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="nofollow noopener">WEB</a>です。
+どうも、<a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">ヤバ</a><a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">WEB</a>です。
 
 エンジニアのみなさん
 
@@ -51,7 +51,7 @@ categories:
   </p>
   
   <p>
-    &mdash; SEKAI NO HIRAI👨‍💻Programmer (@yabaiwebyasan) <a href="https://twitter.com/yabaiwebyasan/status/1067632709755760641?ref_src=twsrc%5Etfw">November 28, 2018</a>
+    &mdash; SEKAI NO HIRAI👨‍💻Programmer (@yabaiwebyasan) <a href="https://twitter.com/iamseninja/status/1067632709755760641?ref_src=twsrc%5Etfw">November 28, 2018</a>
   </p>
 </blockquote>
 

@@ -13,7 +13,7 @@ image: /wp-content/uploads/2018/11/japanese-worry-about-anything-too-much-125x12
 categories:
   - テクノロジー
 ---
-どうも、<a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="nofollow noopener">ヤバ</a><a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="nofollow noopener">WEB</a>です。
+どうも、<a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">ヤバ</a><a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">WEB</a>です。
 
 この間、「<a href="https://techplay.jp/event/707398" target="_blank">日本のスタートアップのグローバル化</a>」というイベントに行ってまいりました。
 

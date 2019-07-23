@@ -13,7 +13,7 @@ image: /wp-content/uploads/2018/12/steem起業家-125x125.png
 categories:
   - テクノロジー
 ---
-どうも、<a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
+どうも、<a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
 
 今日は**Steem**というソーシャルブロックチェーンサービスについてまとめていこうと思います。
 
@@ -97,7 +97,7 @@ Steem関連でたくさんのサードパーティーサービスが生まれて
   </p>
   
   <p>
-    &mdash; SEKAI NO HIRAI👨‍💻Programmer (@yabaiwebyasan) <a href="https://twitter.com/yabaiwebyasan/status/1065433387333181442?ref_src=twsrc%5Etfw">November 22, 2018</a>
+    &mdash; SEKAI NO HIRAI👨‍💻Programmer (@yabaiwebyasan) <a href="https://twitter.com/iamseninja/status/1065433387333181442?ref_src=twsrc%5Etfw">November 22, 2018</a>
   </p>
 </blockquote>
 
@@ -170,7 +170,7 @@ OAuth認証を実装できます。
   </p>
   
   <p>
-    &mdash; SEKAI NO HIRAI👨‍💻Programmer (@yabaiwebyasan) <a href="https://twitter.com/yabaiwebyasan/status/1070976976796606466?ref_src=twsrc%5Etfw">December 7, 2018</a>
+    &mdash; SEKAI NO HIRAI👨‍💻Programmer (@yabaiwebyasan) <a href="https://twitter.com/iamseninja/status/1070976976796606466?ref_src=twsrc%5Etfw">December 7, 2018</a>
   </p>
 </blockquote>
 
@@ -184,6 +184,6 @@ OAuth認証を実装できます。
   </p>
   
   <p>
-    &mdash; SEKAI NO HIRAI👨‍💻Programmer (@yabaiwebyasan) <a href="https://twitter.com/yabaiwebyasan/status/1070983875487195136?ref_src=twsrc%5Etfw">December 7, 2018</a>
+    &mdash; SEKAI NO HIRAI👨‍💻Programmer (@yabaiwebyasan) <a href="https://twitter.com/iamseninja/status/1070983875487195136?ref_src=twsrc%5Etfw">December 7, 2018</a>
   </p>
 </blockquote>

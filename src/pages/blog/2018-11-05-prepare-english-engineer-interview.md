@@ -13,7 +13,7 @@ image: /wp-content/uploads/2018/11/prepare-english-engineer-interview-125x125.pn
 categories:
   - エンジニア英語面接対策
 ---
-どうも、<a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
+どうも、<a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
 
 今回からたまーに
 
@@ -35,7 +35,7 @@ categories:
 
 というのがあればTwitterで教えてくださいw
 
-=> <a href="https://twitter.com/yabaiwebyasan" target="_blank">@yabaiwebyasan</a>
+=> <a href="https://twitter.com/iamseninja" target="_blank">@yabaiwebyasan</a>
 
 英語面接対策と言ってますが、
 

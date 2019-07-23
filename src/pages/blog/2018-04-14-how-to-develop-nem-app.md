@@ -13,7 +13,7 @@ image: /wp-content/uploads/2018/11/how-to-develop-nem-app-125x125.png
 categories:
   - テクノロジー
 ---
-どうも、絶賛ささみばっかり食べるダイエット中の<a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
+どうも、絶賛ささみばっかり食べるダイエット中の<a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
 
 今日は
 

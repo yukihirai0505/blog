@@ -13,7 +13,7 @@ image: /wp-content/uploads/2018/04/how-to-start-affiliate-125x125.png
 categories:
   - 日記
 ---
-どうも、 ブログは適当に更新していくと決めた<a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
+どうも、 ブログは適当に更新していくと決めた<a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
 
 今日は
 

@@ -13,7 +13,7 @@ image: /wp-content/uploads/2018/11/my-first-toeic-result-125x125.png
 categories:
   - 英語学習
 ---
-どうも、<a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
+どうも、<a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
 
 タイトルにもありますが
 
@@ -33,7 +33,7 @@ categories:
   </p>
   
   <p>
-    &mdash; SEKAI NO HIRAI (@yabaiwebyasan) <a href="https://twitter.com/yabaiwebyasan/status/1064369311731478529?ref_src=twsrc%5Etfw">November 19, 2018</a>
+    &mdash; SEKAI NO HIRAI (@yabaiwebyasan) <a href="https://twitter.com/iamseninja/status/1064369311731478529?ref_src=twsrc%5Etfw">November 19, 2018</a>
   </p>
 </blockquote>
 

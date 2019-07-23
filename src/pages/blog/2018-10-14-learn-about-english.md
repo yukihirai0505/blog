@@ -13,7 +13,7 @@ image: /wp-content/uploads/2018/10/実践的英語学習-125x125.png
 categories:
   - 英語学習
 ---
-どうも、<a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
+どうも、<a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
 
 さて、先日の記事でロンドンの人材会社の人と
 
@@ -60,7 +60,7 @@ categories:
   </p>
   
   <p>
-    &mdash; ヤバW😘プログラマーの王女 (@yabaiwebyasan) <a href="https://twitter.com/yabaiwebyasan/status/1050212705343135746?ref_src=twsrc%5Etfw">October 11, 2018</a>
+    &mdash; ヤバW😘プログラマーの王女 (@yabaiwebyasan) <a href="https://twitter.com/iamseninja/status/1050212705343135746?ref_src=twsrc%5Etfw">October 11, 2018</a>
   </p>
 </blockquote>
 
@@ -117,7 +117,7 @@ categories:
   </p>
   
   <p>
-    &mdash; ヤバW😘プログラマーの王女 (@yabaiwebyasan) <a href="https://twitter.com/yabaiwebyasan/status/1050209724208111616?ref_src=twsrc%5Etfw">October 11, 2018</a>
+    &mdash; ヤバW😘プログラマーの王女 (@yabaiwebyasan) <a href="https://twitter.com/iamseninja/status/1050209724208111616?ref_src=twsrc%5Etfw">October 11, 2018</a>
   </p>
 </blockquote>
 
@@ -126,7 +126,7 @@ categories:
 毎日(できるだけ←)、海外ドラマをみて気になった英語フレーズをTwitterで呟こうと思いますw  
 (いつまで続くだろうw)
 
-Twitter: <a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="noopener">ヤバイWEB屋さん</a>
+Twitter: <a href="https://twitter.com/iamseninja" target="_blank" rel="noopener">ヤバイWEB屋さん</a>
 
 こういうのって習慣づけて地道にやっていくのが大事かなと思うので  
 できるだけ毎日時間をとってやりたいなと思います。
@@ -170,7 +170,7 @@ Twitter: <a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="noopen
   </p>
   
   <p>
-    &mdash; ヤバW😘プログラマーの王女 (@yabaiwebyasan) <a href="https://twitter.com/yabaiwebyasan/status/1051658621681987584?ref_src=twsrc%5Etfw">October 15, 2018</a>
+    &mdash; ヤバW😘プログラマーの王女 (@yabaiwebyasan) <a href="https://twitter.com/iamseninja/status/1051658621681987584?ref_src=twsrc%5Etfw">October 15, 2018</a>
   </p>
 </blockquote>
 
@@ -244,6 +244,6 @@ Twitter: <a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="noopen
   </p>
   
   <p>
-    &mdash; ヤバW😘プログラマーの王女 (@yabaiwebyasan) <a href="https://twitter.com/yabaiwebyasan/status/1051638803528482816?ref_src=twsrc%5Etfw">October 15, 2018</a>
+    &mdash; ヤバW😘プログラマーの王女 (@yabaiwebyasan) <a href="https://twitter.com/iamseninja/status/1051638803528482816?ref_src=twsrc%5Etfw">October 15, 2018</a>
   </p>
 </blockquote>

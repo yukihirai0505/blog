@@ -13,7 +13,7 @@ image: /wp-content/uploads/2018/11/predict-tomorrow-bitcoin-price-125x125.png
 categories:
   - テクノロジー
 ---
-どうも！最近、機械学習について学ぶのにハマってる<a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
+どうも！最近、機械学習について学ぶのにハマってる<a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
 
 今日ははじめてKeras(ケラス)のRNN-LSTMを使用して
 
@@ -146,7 +146,7 @@ LSTMはRNNでは学習できなかった長期の時系列データ(long-term de
   </p>
   
   <p>
-    &mdash; SEKAI NO HIRAI👨‍💻Programmer (@yabaiwebyasan) <a href="https://twitter.com/yabaiwebyasan/status/1067418266316955650?ref_src=twsrc%5Etfw">November 27, 2018</a>
+    &mdash; SEKAI NO HIRAI👨‍💻Programmer (@yabaiwebyasan) <a href="https://twitter.com/iamseninja/status/1067418266316955650?ref_src=twsrc%5Etfw">November 27, 2018</a>
   </p>
 </blockquote>
 

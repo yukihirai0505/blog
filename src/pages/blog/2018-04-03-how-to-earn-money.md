@@ -13,7 +13,7 @@ image: /wp-content/uploads/2018/04/away-challenge-125x125.png
 categories:
   - 日記
 ---
-どうも、 一回ブログを辞めてからアクセス激減の<a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。(当たり前)
+どうも、 一回ブログを辞めてからアクセス激減の<a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。(当たり前)
 
 今日は
 

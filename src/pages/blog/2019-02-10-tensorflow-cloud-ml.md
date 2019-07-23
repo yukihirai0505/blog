@@ -13,7 +13,7 @@ image: /wp-content/uploads/2019/02/機械学習活用例-125x125.png
 categories:
   - テクノロジー
 ---
-どうも、<a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
+どうも、<a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
 
 先日、
 
@@ -37,7 +37,7 @@ categories:
   </p>
   
   <p>
-    &mdash; Yuki Hirai👨‍💻 (@yabaiwebyasan) <a href="https://twitter.com/yabaiwebyasan/status/1073398380942962688?ref_src=twsrc%5Etfw">December 14, 2018</a>
+    &mdash; Yuki Hirai👨‍💻 (@yabaiwebyasan) <a href="https://twitter.com/iamseninja/status/1073398380942962688?ref_src=twsrc%5Etfw">December 14, 2018</a>
   </p>
 </blockquote>
 

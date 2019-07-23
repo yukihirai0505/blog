@@ -13,7 +13,7 @@ image: /wp-content/uploads/2018/11/how-to-create-nep5-token-neo-125x125.png
 categories:
   - テクノロジー
 ---
-どうも、 エンジニア向けの記事もちょくちょく書いている<a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
+どうも、 エンジニア向けの記事もちょくちょく書いている<a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
 
 今日は
 

@@ -13,7 +13,7 @@ image: /wp-content/uploads/2018/11/engineer-should-know-how-to-design-125x125.pn
 categories:
   - テクノロジー
 ---
-どうも、<a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
+どうも、<a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
 
 いきなりですが
 

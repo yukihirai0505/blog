@@ -13,7 +13,7 @@ image: /wp-content/uploads/2018/10/英語ができないけど海外て
 categories:
   - 日記
 ---
-どうも、<a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
+どうも、<a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
 
 いきなりですが
 

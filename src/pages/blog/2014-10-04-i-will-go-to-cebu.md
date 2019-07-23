@@ -13,7 +13,7 @@ image: /wp-content/uploads/2014/10/i-will-go-to-cebu-125x125.png
 categories:
   - 日記
 ---
-どうも、初めまして<a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
+どうも、初めまして<a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
 
 いきなりですが明日から半年間
 

@@ -13,7 +13,7 @@ image: /wp-content/uploads/2018/12/important-things-for-developer-job-hunting-12
 categories:
   - テクノロジー
 ---
-どうも、<a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
+どうも、<a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
 
 先月の11月26日に
 
@@ -73,7 +73,7 @@ categories:
   </p>
   
   <p>
-    &mdash; SEKAI NO HIRAI👨‍💻Programmer (@yabaiwebyasan) <a href="https://twitter.com/yabaiwebyasan/status/1067055969719353344?ref_src=twsrc%5Etfw">November 26, 2018</a>
+    &mdash; SEKAI NO HIRAI👨‍💻Programmer (@yabaiwebyasan) <a href="https://twitter.com/iamseninja/status/1067055969719353344?ref_src=twsrc%5Etfw">November 26, 2018</a>
   </p>
 </blockquote>
 
@@ -146,7 +146,7 @@ categories:
   </p>
   
   <p>
-    &mdash; SEKAI NO HIRAI👨‍💻Programmer (@yabaiwebyasan) <a href="https://twitter.com/yabaiwebyasan/status/1067197873295478785?ref_src=twsrc%5Etfw">November 26, 2018</a>
+    &mdash; SEKAI NO HIRAI👨‍💻Programmer (@yabaiwebyasan) <a href="https://twitter.com/iamseninja/status/1067197873295478785?ref_src=twsrc%5Etfw">November 26, 2018</a>
   </p>
 </blockquote>
 

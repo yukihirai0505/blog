@@ -13,7 +13,7 @@ image: /wp-content/uploads/2018/12/your-view-on-the-pros-en-cons-of-working-in-a
 categories:
   - エンジニア英語面接対策
 ---
-どうも、<a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
+どうも、<a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
 
 さて、このブログではたまーに
 

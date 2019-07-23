@@ -52,7 +52,7 @@ WordPress(ワードプレス)ユーザーなら
 なにか気になることとかあったら  
 Twitterで聞いてもらえればと思いますw
 
-▶︎ <a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="nofollow noopener">@yabaiwebyasan</a>
+▶︎ <a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">@yabaiwebyasan</a>
 
 ちなみに、Wordpressコメント欄非表示の設定は
 

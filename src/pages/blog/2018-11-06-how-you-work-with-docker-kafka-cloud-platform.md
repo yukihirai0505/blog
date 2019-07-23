@@ -13,7 +13,7 @@ image: /wp-content/uploads/2018/11/how-you-work-with-docker-kafka-cloud-platform
 categories:
   - エンジニア英語面接対策
 ---
-どうも、<a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
+どうも、<a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
 
 さて、前回の記事から
 

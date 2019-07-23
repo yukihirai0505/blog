@@ -13,7 +13,7 @@ image: /wp-content/uploads/2018/11/free-meetup-for-developers-in-tokyo-125x125.p
 categories:
   - 英語学習
 ---
-どうも、<a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
+どうも、<a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
 
 今日は主にエンジニア向けの内容にはなりますが
 

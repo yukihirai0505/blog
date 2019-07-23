@@ -13,7 +13,7 @@ image: /wp-content/uploads/2018/11/how-to-create-image-match-tool-125x125.png
 categories:
   - テクノロジー
 ---
-どうも、<a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
+どうも、<a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
 
 先日、「<a href="https://supporterzcolab.com/event/623/" target="_blank">類似画像検索システムを作る</a>」という勉強会に参加してきました。
 
@@ -138,7 +138,7 @@ ref: <a href="https://qiita.com/sugiyamath/items/858a5d60bc93d3f787ba" target="_
   </p>
   
   <p>
-    &mdash; SEKAI NO HIRAI👨‍💻Programmer (@yabaiwebyasan) <a href="https://twitter.com/yabaiwebyasan/status/1069817126620295168?ref_src=twsrc%5Etfw">December 4, 2018</a>
+    &mdash; SEKAI NO HIRAI👨‍💻Programmer (@yabaiwebyasan) <a href="https://twitter.com/iamseninja/status/1069817126620295168?ref_src=twsrc%5Etfw">December 4, 2018</a>
   </p>
 </blockquote>
 

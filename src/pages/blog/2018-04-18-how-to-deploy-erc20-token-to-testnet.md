@@ -13,7 +13,7 @@ image: /wp-content/uploads/2018/04/etherum-testnet-deploy-125x125.png
 categories:
   - テクノロジー
 ---
-どうも、仮想通貨はすべて損切りした<a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
+どうも、仮想通貨はすべて損切りした<a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
 
 今日は
 

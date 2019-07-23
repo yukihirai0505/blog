@@ -13,7 +13,7 @@ image: /wp-content/uploads/2019/02/英語の勉強にもなるエンジニア
 categories:
   - テクノロジー
 ---
-どうも、<a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
+どうも、<a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
 
 今日は自分が仕事中やジムでのトレーニング中によく聞いてる
 

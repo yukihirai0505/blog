@@ -14,7 +14,7 @@ categories:
   - 日記
 ---
 どうも、ダイエットを始めてからも  
-全然痩せられていない<a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
+全然痩せられていない<a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
 
 <span class="sobig"><b>痩せられない理由は明白</b></span>
 

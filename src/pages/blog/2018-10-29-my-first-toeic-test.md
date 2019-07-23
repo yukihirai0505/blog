@@ -13,7 +13,7 @@ image: /wp-content/uploads/2018/10/my-first-toeic-test-125x125.png
 categories:
   - 英語学習
 ---
-どうも、<a href="https://twitter.com/yabaiwebyasan" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
+どうも、<a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
 
 昨日は人生で初めて
 
@@ -230,7 +230,7 @@ iTunesにアップしてiPhoneと同期する
   </p>
   
   <p>
-    &mdash; ヤバW😘プログラマーの王女 (@yabaiwebyasan) <a href="https://twitter.com/yabaiwebyasan/status/1054975766562267138?ref_src=twsrc%5Etfw">October 24, 2018</a>
+    &mdash; ヤバW😘プログラマーの王女 (@yabaiwebyasan) <a href="https://twitter.com/iamseninja/status/1054975766562267138?ref_src=twsrc%5Etfw">October 24, 2018</a>
   </p>
 </blockquote>
 
@@ -258,7 +258,7 @@ TOEICうけなかったら知らなかっただろうなぁw
   </p>
   
   <p>
-    &mdash; ヤバW😘プログラマーの王女 (@yabaiwebyasan) <a href="https://twitter.com/yabaiwebyasan/status/1056692565984964608?ref_src=twsrc%5Etfw">October 28, 2018</a>
+    &mdash; ヤバW😘プログラマーの王女 (@yabaiwebyasan) <a href="https://twitter.com/iamseninja/status/1056692565984964608?ref_src=twsrc%5Etfw">October 28, 2018</a>
   </p>
 </blockquote>
 
@@ -272,7 +272,7 @@ TOEICうけなかったら知らなかっただろうなぁw
   </p>
   
   <p>
-    &mdash; ヤバW😘プログラマーの王女 (@yabaiwebyasan) <a href="https://twitter.com/yabaiwebyasan/status/1055361812021964800?ref_src=twsrc%5Etfw">October 25, 2018</a>
+    &mdash; ヤバW😘プログラマーの王女 (@yabaiwebyasan) <a href="https://twitter.com/iamseninja/status/1055361812021964800?ref_src=twsrc%5Etfw">October 25, 2018</a>
   </p>
 </blockquote>
 
@@ -308,7 +308,7 @@ TOEICうけなかったら知らなかっただろうなぁw
   </p>
   
   <p>
-    &mdash; ヤバW😘プログラマーの王女 (@yabaiwebyasan) <a href="https://twitter.com/yabaiwebyasan/status/1053495610794401793?ref_src=twsrc%5Etfw">October 20, 2018</a>
+    &mdash; ヤバW😘プログラマーの王女 (@yabaiwebyasan) <a href="https://twitter.com/iamseninja/status/1053495610794401793?ref_src=twsrc%5Etfw">October 20, 2018</a>
   </p>
 </blockquote>
 
@@ -362,7 +362,7 @@ TOEICのスコアは1ヶ月以内に発送されるそうなので
   </p>
   
   <p>
-    &mdash; ヤバW😘プログラマーの王女 (@yabaiwebyasan) <a href="https://twitter.com/yabaiwebyasan/status/1056664474122280960?ref_src=twsrc%5Etfw">October 28, 2018</a>
+    &mdash; ヤバW😘プログラマーの王女 (@yabaiwebyasan) <a href="https://twitter.com/iamseninja/status/1056664474122280960?ref_src=twsrc%5Etfw">October 28, 2018</a>
   </p>
 </blockquote>
 
@@ -374,7 +374,7 @@ TOEICのスコアは1ヶ月以内に発送されるそうなので
   </p>
   
   <p>
-    &mdash; ヤバW😘プログラマーの王女 (@yabaiwebyasan) <a href="https://twitter.com/yabaiwebyasan/status/1056675552088576000?ref_src=twsrc%5Etfw">October 28, 2018</a>
+    &mdash; ヤバW😘プログラマーの王女 (@yabaiwebyasan) <a href="https://twitter.com/iamseninja/status/1056675552088576000?ref_src=twsrc%5Etfw">October 28, 2018</a>
   </p>
 </blockquote>
 
@@ -390,7 +390,7 @@ TOEICのスコアは1ヶ月以内に発送されるそうなので
   </p>
   
   <p>
-    &mdash; ヤバW😘プログラマーの王女 (@yabaiwebyasan) <a href="https://twitter.com/yabaiwebyasan/status/1056685905967177728?ref_src=twsrc%5Etfw">October 28, 2018</a>
+    &mdash; ヤバW😘プログラマーの王女 (@yabaiwebyasan) <a href="https://twitter.com/iamseninja/status/1056685905967177728?ref_src=twsrc%5Etfw">October 28, 2018</a>
   </p>
 </blockquote>
 
@@ -402,7 +402,7 @@ TOEICのスコアは1ヶ月以内に発送されるそうなので
   </p>
   
   <p>
-    &mdash; ヤバW😘プログラマーの王女 (@yabaiwebyasan) <a href="https://twitter.com/yabaiwebyasan/status/1056446176973643776?ref_src=twsrc%5Etfw">October 28, 2018</a>
+    &mdash; ヤバW😘プログラマーの王女 (@yabaiwebyasan) <a href="https://twitter.com/iamseninja/status/1056446176973643776?ref_src=twsrc%5Etfw">October 28, 2018</a>
   </p>
 </blockquote>
 
