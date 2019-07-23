@@ -13,11 +13,12 @@ image: /wp-content/uploads/2018/10/実践的英語学習-125x125.png
 categories:
   - 英語学習
 ---
+
 どうも、<a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">Yuki Hirai</a>です。
 
 さて、先日の記事でロンドンの人材会社の人と
 
-<span class="sobig"><b>英語でSkypeミーティング</b></span>
+<span class="sobig"><b>英語で Skype ミーティング</b></span>
 
 をして
 
@@ -31,15 +32,13 @@ categories:
   </p>
 </blockquote>
 
-
-
-あまりにも悲しかったので←
+あまりにも悲しかったので ←
 
 このブログを立ち上げ頑張ろう！と思っていたのですが
 
 どう英語を勉強すれば  
 あのイギリスネイティブの英語を聞き取れるようになるのか  
-皆目検討もつきませんw
+皆目検討もつきません w
 
 ただ、
 
@@ -52,7 +51,7 @@ categories:
 
 ## ネイティブレベルの英語を聞き取れるようになるには?
 
-まず頂いたアドバイスをざっとTwitterで引用したものがこちらです。
+まず頂いたアドバイスをざっと Twitter で引用したものがこちらです。
 
 <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
   <p lang="ja" dir="ltr">
@@ -60,11 +59,9 @@ categories:
   </p>
   
   <p>
-    &mdash; ヤバW😘プログラマーの王女 (@yabaiwebyasan) <a href="https://twitter.com/iamseninja/status/1050212705343135746?ref_src=twsrc%5Etfw">October 11, 2018</a>
+    &mdash; Yuki Hirai <a href="https://twitter.com/iamseninja/status/1050212705343135746?ref_src=twsrc%5Etfw">October 11, 2018</a>
   </p>
 </blockquote>
-
-
 
 つまり、
 
@@ -74,8 +71,8 @@ categories:
 
 大きくポイントは二つで
 
-  * ネイティブの英語を聞き取る練習を習慣づけする
-  * 英語ラップをして高速で英語を話せるようになる
+- ネイティブの英語を聞き取る練習を習慣づけする
+- 英語ラップをして高速で英語を話せるようになる
 
 ことが重要なのかと思いました。
 
@@ -91,8 +88,6 @@ categories:
     &mdash; 億ラビットくん (OK Rabbit) (@ocrybit) <a href="https://twitter.com/ocrybit/status/1051652473721692160?ref_src=twsrc%5Etfw">October 15, 2018</a>
   </p>
 </blockquote>
-
-
 
 <span class="sobig"><b>英語発音を上達させたいなら、ヒューマンビートボクサーを目指そう！</b></span>
 
@@ -117,39 +112,35 @@ categories:
   </p>
   
   <p>
-    &mdash; ヤバW😘プログラマーの王女 (@yabaiwebyasan) <a href="https://twitter.com/iamseninja/status/1050209724208111616?ref_src=twsrc%5Etfw">October 11, 2018</a>
+    &mdash; Yuki Hirai <a href="https://twitter.com/iamseninja/status/1050209724208111616?ref_src=twsrc%5Etfw">October 11, 2018</a>
   </p>
 </blockquote>
 
+毎日(できるだけ ←)、海外ドラマをみて気になった英語フレーズを Twitter で呟こうと思います w  
+(いつまで続くだろう w)
 
-
-毎日(できるだけ←)、海外ドラマをみて気になった英語フレーズをTwitterで呟こうと思いますw  
-(いつまで続くだろうw)
-
-Twitter: <a href="https://twitter.com/iamseninja" target="_blank" rel="noopener">ヤバイWEB屋さん</a>
+Twitter: <a href="https://twitter.com/iamseninja" target="_blank" rel="noopener">Yuki Hirai</a>
 
 こういうのって習慣づけて地道にやっていくのが大事かなと思うので  
 できるだけ毎日時間をとってやりたいなと思います。
 
 <span class="big"><b>もう英語とか余裕で聞き取れるわ</b></span>
 
-ってなったらやめますw
+ってなったらやめます w
 
 ## 英語ラップチャレンジ
 
-実は以前、YouTuberにチャレンジしたことがあるので  
-英語ラップを自作してYouTubeにアップしていきたいとおもいます。
+実は以前、YouTuber にチャレンジしたことがあるので  
+英語ラップを自作して YouTube にアップしていきたいとおもいます。
 
 英語ラップは週一くらいで続けていこうかな。  
-週末にあげるようにしますw
+週末にあげるようにします w
 
-というか英語力なくてもラップってつくれるのかw
+というか英語力なくてもラップってつくれるのか w
 
-まずはそこから勉強ですねw
+まずはそこから勉強ですね w
 
-遅くても今週末に一本あげられればいいかなと思いますw
-
-
+遅くても今週末に一本あげられればいいかなと思います w
 
 <div class="g-ytsubscribe" data-channelid="UClcWgUnEr79fJBcpqnm4M1w" data-layout="full" data-count="default">
 </div>
@@ -158,7 +149,7 @@ Twitter: <a href="https://twitter.com/iamseninja" target="_blank" rel="noopener"
 
 **初心者でも始められるラップで英語学習**
 
-みたいなのがあるといいかもw
+みたいなのがあるといいかも w
 
 <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
   <p lang="ja" dir="ltr">
@@ -170,16 +161,14 @@ Twitter: <a href="https://twitter.com/iamseninja" target="_blank" rel="noopener"
   </p>
   
   <p>
-    &mdash; ヤバW😘プログラマーの王女 (@yabaiwebyasan) <a href="https://twitter.com/iamseninja/status/1051658621681987584?ref_src=twsrc%5Etfw">October 15, 2018</a>
+    &mdash; Yuki Hirai <a href="https://twitter.com/iamseninja/status/1051658621681987584?ref_src=twsrc%5Etfw">October 15, 2018</a>
   </p>
 </blockquote>
-
-
 
 自作！とか言ってますが  
 まずは英語ラップまったくわからないので
 
-コピーから始めていこうかなと思いますw
+コピーから始めていこうかなと思います w
 
 <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
   <p lang="ja" dir="ltr">
@@ -191,8 +180,6 @@ Twitter: <a href="https://twitter.com/iamseninja" target="_blank" rel="noopener"
   </p>
 </blockquote>
 
-
-
 ## 「時間がかかる！」から習慣づけてやる
 
 最初のアドバイスでも
@@ -200,13 +187,13 @@ Twitter: <a href="https://twitter.com/iamseninja" target="_blank" rel="noopener"
 <span class="big"><b>完全に聞き取れるようになるには時間がかかる</b></span>
 
 とありました。  
-3~5年くらいかかると。
+3~5 年くらいかかると。
 
 なので、途中で辞めずに自分が納得するまで習慣づけてやるのが重要なのかなと思います。
 
-もちろん、その間も虎視眈々と海外で働けるチャンスは探しますw
+もちろん、その間も虎視眈々と海外で働けるチャンスは探します w
 
-あと、このブログもYouTubeもそうですが
+あと、このブログも YouTube もそうですが
 
 自分の性格上
 
@@ -224,7 +211,7 @@ Twitter: <a href="https://twitter.com/iamseninja" target="_blank" rel="noopener"
 
 あくまでも一過性のストーリものとして
 
-お楽しみいただけたらと思います←
+お楽しみいただけたらと思います ←
 
 <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
   <p lang="ja" dir="ltr">
@@ -240,10 +227,10 @@ Twitter: <a href="https://twitter.com/iamseninja" target="_blank" rel="noopener"
   </p>
   
   <p>
-    どうも、ヤバWEBです
+    どうも、Yuki Hiraiです
   </p>
   
   <p>
-    &mdash; ヤバW😘プログラマーの王女 (@yabaiwebyasan) <a href="https://twitter.com/iamseninja/status/1051638803528482816?ref_src=twsrc%5Etfw">October 15, 2018</a>
+    &mdash; Yuki Hirai <a href="https://twitter.com/iamseninja/status/1051638803528482816?ref_src=twsrc%5Etfw">October 15, 2018</a>
   </p>
 </blockquote>

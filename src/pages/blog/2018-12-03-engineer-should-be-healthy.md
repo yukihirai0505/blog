@@ -13,7 +13,8 @@ image: /wp-content/uploads/2018/11/engineer-should-be-healthy-125x125.png
 categories:
   - テクノロジー
 ---
-どうも、<a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">ヤバ</a><a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">WEB</a>です。
+
+どうも、<a href="https://twitter.com/iamseninja" target="_blank" rel="nofollow noopener">YukiHirai</a>です。
 
 エンジニアのみなさん
 
@@ -27,15 +28,15 @@ categories:
 
 エンジニアってだいたい座りっぱなしで仕事してますよね
 
-でも、1時間に1回くらいは腰をあげるようにしたほうがよさそうです
+でも、1 時間に 1 回くらいは腰をあげるようにしたほうがよさそうです
 
-なんと死亡リスクが40%もあがるという結果もでているそうですw
+なんと死亡リスクが 40%もあがるという結果もでているそうです w
 
 => <a href="https://www.businessinsider.jp/post-106010" target="_blank">座りすぎの死亡リスクは最大</a><a href="https://www.businessinsider.jp/post-106010" target="_blank">40</a><a href="https://www.businessinsider.jp/post-106010" target="_blank">％増</a><a href="https://www.businessinsider.jp/post-106010" target="_blank">——</a><a href="https://www.businessinsider.jp/post-106010" target="_blank">日本人は世界一座りすぎている</a>
 
-知らなかったw
+知らなかった w
 
-ちなみにいまいる会社にこのことを伝えてスタンディングデスクを取り入れてもらいましたw
+ちなみにいまいる会社にこのことを伝えてスタンディングデスクを取り入れてもらいました w
 
 <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
   <p lang="ja" dir="ltr">
@@ -55,8 +56,6 @@ categories:
   </p>
 </blockquote>
 
-
-
 ## 健康のユニットテスト
 
 この命の危機より脱するには
@@ -71,8 +70,8 @@ categories:
 
 ポイントは
 
-  * 基本一万歩2000/20分のペースで歩く時間を
-  * 最大心拍数の60%くらいがいい (220 &#8211; 年齢) * 0.6
+- 基本一万歩 2000/20 分のペースで歩く時間を
+- 最大心拍数の 60%くらいがいい (220 &#8211; 年齢) \* 0.6
 
 といったところです。
 
